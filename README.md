@@ -17,3 +17,9 @@ Since I am used in C++ the most, I try making a prototype using the language.
 	1. Every time you input, the average and standard deviation will be calculated **unless the vote is invalid.**
 5. The program shows the text in the following format to paste your spreadsheet.
 	1. alphabet (space) average (space) standard deviation (newline)
+
+# What features should be contained on next version
+1. You can choose one of the following options if you get the vote having same characters twice or more times:
+	1. Only the higher/highest one will be counted.
+	2. Only the lower/lowest one will be counted.
+	3. The vote will be invalid.
